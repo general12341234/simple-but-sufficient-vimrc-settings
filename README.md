@@ -3,7 +3,7 @@
 
 ----
 
-This README file is an exact copy of the vimrc file in this repository.
+This README file is an exact copy of the vimrc file present in this repository.
 
 ----
 
